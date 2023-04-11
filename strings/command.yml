@@ -7,7 +7,7 @@
 # Bot Commands
 PING_COMMAND : ["ping", "بينج"]
 START_COMMAND : ["start", "/start", "تفعيل"]
-HELP_COMMAND : ["help", "مساعده"]
+HELP_COMMAND : ["help", "الاوامر"]
 SETTINGS_COMMAND : ["settings", "setting", "اعدادات", "الاعدادت", "/اعدادات", "/الاعدادات", "/setting"]
 RELOAD_COMMAND : ["admincache", "reload", "ريلود"]
 GSTATS_COMMAND : ["gstats","الاحصائيات","احصائيات"]
@@ -61,7 +61,7 @@ SUDOUSERS_COMMAND : ["sudolist", "قائمة الثانويين"]
 BROADCAST_COMMAND : ["broadcast", "ذيع", "اذاعه", "اذاعة"]
 
 #Blacklist chat
-BLACKLISTCHAT_COMMAND : ["blacklistchat"]
+BLACKLISTCHAT_COMMAND : ["blacklistchat", "حظر جروب", "حظر قناة"]
 WHITELISTCHAT_COMMAND : ["whitelistchat"]
 BLACKLISTEDCHAT_COMMAND : ["blacklistedchat"]
 
